@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\The_Gauntlet_SDC.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\The_Gauntlet_SDC.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\The_Gauntlet_SDCEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\The_Gauntlet_SDC">
+      <UniqueIdentifier>{5E9C2503-F3C8-37C7-8D81-E5273D00E2AA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\The_Gauntlet_SDC\The_Gauntlet_SDC.Build.cs">
+      <Filter>Source\The_Gauntlet_SDC</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\The_Gauntlet_SDC.cpp">
+      <Filter>Source\The_Gauntlet_SDC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\The_Gauntlet_SDC.h">
+      <Filter>Source\The_Gauntlet_SDC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\The_Gauntlet_SDCCharacter.cpp">
+      <Filter>Source\The_Gauntlet_SDC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\The_Gauntlet_SDCCharacter.h">
+      <Filter>Source\The_Gauntlet_SDC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\The_Gauntlet_SDCGameMode.cpp">
+      <Filter>Source\The_Gauntlet_SDC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\The_Gauntlet_SDCGameMode.h">
+      <Filter>Source\The_Gauntlet_SDC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\The_Gauntlet_SDCPlayerController.cpp">
+      <Filter>Source\The_Gauntlet_SDC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\The_Gauntlet_SDCPlayerController.h">
+      <Filter>Source\The_Gauntlet_SDC</Filter>
+    </ClInclude>
+    <Filter Include="Source\The_Gauntlet_SDC\Variant_Combat">
+      <UniqueIdentifier>{3514B702-0098-3240-83FD-D5185A66A7FB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\The_Gauntlet_SDC\Variant_Combat\AI">
+      <UniqueIdentifier>{ACCBDC55-350F-3201-8653-6A9A7CBAD4B4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\The_Gauntlet_SDC\Variant_Combat\Animation">
+      <UniqueIdentifier>{C56095C7-BFE9-3730-B85C-1480E420BBC5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Animation\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Animation\AnimNotify_CheckCombo.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Animation\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Animation\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\The_Gauntlet_SDC\Variant_Combat\Gameplay">
+      <UniqueIdentifier>{E4702373-EF7B-3D11-ADE0-649F0F04B6B5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Gameplay\CombatActivationVolume.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Gameplay\CombatActivationVolume.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Gameplay\CombatCheckpointVolume.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Gameplay\CombatCheckpointVolume.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Gameplay\CombatDamageableBox.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Gameplay\CombatDamageableBox.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Gameplay\CombatDummy.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Gameplay\CombatDummy.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Gameplay\CombatLavaFloor.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Gameplay\CombatLavaFloor.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\The_Gauntlet_SDC\Variant_Combat\Interfaces">
+      <UniqueIdentifier>{091A4B39-06B2-331E-AD2E-DBEEE01FBE4F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Interfaces\CombatActivatable.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Interfaces\CombatActivatable.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Interfaces\CombatAttacker.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Interfaces\CombatAttacker.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Interfaces\CombatDamageable.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\Interfaces\CombatDamageable.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\The_Gauntlet_SDC\Variant_Combat\UI">
+      <UniqueIdentifier>{64709A93-034D-32B4-9915-FF752A7DDFBC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\UI\CombatLifeBar.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Combat\UI\CombatLifeBar.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Combat\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\The_Gauntlet_SDC\Variant_Platforming">
+      <UniqueIdentifier>{1328A3B4-8A49-3125-BC24-299EA946CFD0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\The_Gauntlet_SDC\Variant_Platforming\Animation">
+      <UniqueIdentifier>{7B134930-C0B7-3B46-8D09-3FCB92691D94}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_Platforming\Animation\AnimNotify_EndDash.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Platforming\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_Platforming\Animation\AnimNotify_EndDash.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_Platforming\Animation</Filter>
+    </ClInclude>
+    <Filter Include="Source\The_Gauntlet_SDC\Variant_SideScrolling">
+      <UniqueIdentifier>{27341351-AF54-3735-891F-9B94DC6D4E5B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\The_Gauntlet_SDC\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{C51DFE69-B3FD-303C-97CA-D900F33D13DA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{2D61B8E2-861B-30F2-A405-AB3686D08752}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\The_Gauntlet_SDC\Variant_SideScrolling\Interfaces">
+      <UniqueIdentifier>{1155A975-416A-3B60-B29E-E82AD307B2AD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\Interfaces\SideScrollingInteractable.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\Interfaces\SideScrollingInteractable.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\The_Gauntlet_SDC\Variant_SideScrolling\UI">
+      <UniqueIdentifier>{325C72F2-59A3-3CFA-8AAD-F624FD7EE225}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\UI\SideScrollingUI.cpp">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\The_Gauntlet_SDC\Variant_SideScrolling\UI\SideScrollingUI.h">
+      <Filter>Source\The_Gauntlet_SDC\Variant_SideScrolling\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

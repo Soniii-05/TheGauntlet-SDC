@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "The_Gauntlet_SDC",
+			"Path": "..\\Source\\The_Gauntlet_SDC.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "The_Gauntlet_SDCEditor",
+			"Path": "..\\Source\\The_Gauntlet_SDCEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

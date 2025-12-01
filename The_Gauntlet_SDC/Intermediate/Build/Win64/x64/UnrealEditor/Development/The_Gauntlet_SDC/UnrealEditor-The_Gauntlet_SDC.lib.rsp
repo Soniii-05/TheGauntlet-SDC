@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-The_Gauntlet_SDC.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Intermediate/Build/Win64/x64/The_Gauntlet_SDCEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Intermediate/Build/Win64/x64/UnrealEditor/Development/The_Gauntlet_SDC/Module.The_Gauntlet_SDC.1.cpp.obj"
+"C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Intermediate/Build/Win64/x64/UnrealEditor/Development/The_Gauntlet_SDC/Module.The_Gauntlet_SDC.2.cpp.obj"
+"C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Intermediate/Build/Win64/x64/UnrealEditor/Development/The_Gauntlet_SDC/Module.The_Gauntlet_SDC.3.cpp.obj"
+"C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Intermediate/Build/Win64/x64/UnrealEditor/Development/The_Gauntlet_SDC/Default.rc2.res"
+/OUT:"C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Intermediate/Build/Win64/x64/UnrealEditor/Development/The_Gauntlet_SDC/UnrealEditor-The_Gauntlet_SDC.lib"
