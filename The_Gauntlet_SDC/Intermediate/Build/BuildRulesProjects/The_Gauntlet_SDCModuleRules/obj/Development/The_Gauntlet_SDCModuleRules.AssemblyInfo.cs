@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The_Gauntlet_SDCModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cffc08abeb42fa4a62c6e180d9c626326c4387eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4127ea0c7d6309d24b9a8087e075d4e58b2b475c")]
 [assembly: System.Reflection.AssemblyProductAttribute("The_Gauntlet_SDCModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The_Gauntlet_SDCModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
