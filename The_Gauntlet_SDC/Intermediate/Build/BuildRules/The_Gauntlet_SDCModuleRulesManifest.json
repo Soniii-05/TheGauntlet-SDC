@@ -1,6 +1,8 @@
 {
 	"SourceFiles": [
 		"C:\\Users\\dices\\Desktop\\GIT-FORK\\Unreal Engine\\TheGauntlet-SDC\\The_Gauntlet_SDC\\Source\\The_Gauntlet_SDC\\The_Gauntlet_SDC.Build.cs",
+		"C:\\Users\\dices\\Desktop\\GIT-FORK\\Unreal Engine\\TheGauntlet-SDC\\The_Gauntlet_SDC\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"C:\\Users\\dices\\Desktop\\GIT-FORK\\Unreal Engine\\TheGauntlet-SDC\\The_Gauntlet_SDC\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
 		"C:\\Users\\dices\\Desktop\\GIT-FORK\\Unreal Engine\\TheGauntlet-SDC\\The_Gauntlet_SDC\\Source\\The_Gauntlet_SDC.Target.cs",
 		"C:\\Users\\dices\\Desktop\\GIT-FORK\\Unreal Engine\\TheGauntlet-SDC\\The_Gauntlet_SDC\\Source\\The_Gauntlet_SDCEditor.Target.cs"
 	],

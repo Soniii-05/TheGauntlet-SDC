@@ -46,6 +46,7 @@
 			"The_Gauntlet_SDCGameMode.gen.cpp.obj",
 			"The_Gauntlet_SDCPlayerController.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
+			"Interactable.cpp.obj",
 			"The_Gauntlet_SDC.cpp.obj",
 			"The_Gauntlet_SDCCharacter.cpp.obj",
 			"The_Gauntlet_SDCGameMode.cpp.obj",

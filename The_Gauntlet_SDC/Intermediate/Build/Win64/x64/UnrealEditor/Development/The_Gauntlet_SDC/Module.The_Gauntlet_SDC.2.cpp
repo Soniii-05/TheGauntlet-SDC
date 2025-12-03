@@ -21,6 +21,7 @@
 #include "C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Intermediate/Build/Win64/UnrealEditor/Inc/The_Gauntlet_SDC/UHT/The_Gauntlet_SDCGameMode.gen.cpp"
 #include "C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Intermediate/Build/Win64/UnrealEditor/Inc/The_Gauntlet_SDC/UHT/The_Gauntlet_SDCPlayerController.gen.cpp"
 #include "C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Intermediate/Build/Win64/x64/UnrealEditor/Development/The_Gauntlet_SDC/PerModuleInline.gen.cpp"
+#include "C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Source/The_Gauntlet_SDC/Interactable.cpp"
 #include "C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Source/The_Gauntlet_SDC/The_Gauntlet_SDC.cpp"
 #include "C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Source/The_Gauntlet_SDC/The_Gauntlet_SDCCharacter.cpp"
 #include "C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Source/The_Gauntlet_SDC/The_Gauntlet_SDCGameMode.cpp"
