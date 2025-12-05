@@ -3707,21 +3707,3 @@ Script Stack (0 frames) :
 [2025.12.05-11.47.29:789][282]LogOutputDevice: Error: [Callstack] 0x00007fff9db5e8d7 KERNEL32.DLL!UnknownFunction []
 [2025.12.05-11.47.29:789][282]LogOutputDevice: Error: [Callstack] 0x00007fff9e6cc53c ntdll.dll!UnknownFunction []
 [2025.12.05-11.47.29:789][282]LogOutputDevice: Error: 
-[2025.12.05-11.47.29:798][282]LogStats:                SubmitErrorReport -  0.000 s
-[2025.12.05-11.47.30:752][282]LogStats:                    SendNewReport -  0.954 s
-[2025.12.05-11.47.30:752][282]LogStats:             FDebug::EnsureFailed -  0.989 s
-[2025.12.05-11.47.38:343][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2025.12.05-11.47.38:415][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
-[2025.12.05-11.47.38:426][139]LogSavePackage: Moving output files for package: /Game/_Game/Maps/ThirdPerson/Lvl_ThirdPerson
-[2025.12.05-11.47.38:426][139]LogSavePackage: Moving '../../../../../../Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Saved/Lvl_ThirdPersonBBD49F89459D9985D98218A8C96ED5BD.tmp' to '../../../../../../Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Content/_Game/Maps/ThirdPerson/Lvl_ThirdPerson.umap'
-[2025.12.05-11.47.38:437][139]LogFileHelpers: Saving map 'Lvl_ThirdPerson' took 0.064
-[2025.12.05-11.47.38:445][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.744 ms (total: 2.73 sec)
-[2025.12.05-11.47.38:467][139]LogContentValidation: Display: Starting to validate 1 assets
-[2025.12.05-11.47.38:467][139]LogContentValidation: Enabled validators:
-[2025.12.05-11.47.38:467][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
-[2025.12.05-11.47.38:467][139]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
-[2025.12.05-11.47.38:467][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
-[2025.12.05-11.47.38:467][139]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
-[2025.12.05-11.47.38:467][139]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
-[2025.12.05-11.47.38:467][139]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
-[2025.12.05-11.47.38:467][139]AssetCheck: /Game/_Game/Maps/ThirdPerson/Lvl_ThirdPerson Validating asset
