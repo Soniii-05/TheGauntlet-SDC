@@ -1,2 +1,3 @@
-2025/12/03-17:44:25.491 8150 Creating DB C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/12/03-17:44:25.502 8150 Reusing MANIFEST C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/12/05-11:39:59.780 ed8 Reusing MANIFEST C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/12/05-11:39:59.788 ed8 Recovering log #3
+2025/12/05-11:39:59.789 ed8 Reusing old log C:/Users/dices/Desktop/GIT-FORK/Unreal Engine/TheGauntlet-SDC/The_Gauntlet_SDC/Saved/webcache_4430\Local Storage\leveldb/000003.log 
